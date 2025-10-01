@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "BeautyFunnels",
+    "slug": "beautyfunnels",
+    "scheme": "beautyfunnels",
+    "sdkVersion": "51.0.0",
+    "platforms": ["ios", "android"],
+    "extra": {
+      "eas": {
+        "projectId": "local-dev"
+      }
+    }
+  }
+}
+

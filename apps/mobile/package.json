@@ -1,0 +1,17 @@
+{
+  "name": "@beauty/mobile",
+  "version": "0.0.1",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "dev": "expo start --tunnel"
+  },
+  "dependencies": {
+    "expo": "~51.0.17",
+    "expo-router": "^3.5.23",
+    "react": "18.3.1",
+    "react-native": "0.74.3",
+    "@tanstack/react-query": "^5.51.1"
+  }
+}
+
